@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="login_page">Login Page</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="not_of_attempts_remaining_5">Not of attempts remaining: 5</string>
+
+</resources>

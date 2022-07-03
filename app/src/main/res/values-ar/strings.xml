@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تسجيل الدخول</string>
+    <string name="login_page">تسجيل الدخول</string>
+    <string name="name">الاسم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل</string>
+    <string name="not_of_attempts_remaining_5">لم يتبقى من المحاولات سوى :5 </string>
+
+</resources>
